@@ -1,5 +1,5 @@
 """
-Solución numérica de cinco problemas de ingeniería.
+SOLUCIÓN DE ECUACIONES DIFERENCIALES CON VALOR EN LA FRONTERA
 Requisitos:
     pip install numpy scipy matplotlib
 
